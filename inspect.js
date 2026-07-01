@@ -1,7 +1,7 @@
 import { connect } from "framer-api"
 import "dotenv/config"
 
-const PROJECT_URL = "https://framer.com/projects/systemlink-ch-2--OJrpYeSo4XOmvRRkt9O7-4Jt8d"
+const PROJECT_URL = "https://framer.com/projects/systemlink-ch--uBqjKB1UwRvvI4kE4G4J-5jmTm"
 
 console.log("Connecting to Framer...")
 const framer = await connect(PROJECT_URL)

@@ -1,6 +1,6 @@
 import { connect } from "framer-api"
 
-const PROJECT_URL = "https://framer.com/projects/systemlink-ch-2--OJrpYeSo4XOmvRRkt9O7-4Jt8d"
+const PROJECT_URL = "https://framer.com/projects/systemlink-ch--uBqjKB1UwRvvI4kE4G4J-5jmTm"
 
 const raw = JSON.parse(process.env.ARTICLE_PAYLOAD)
 const payload = raw.data ? JSON.parse(raw.data) : raw
