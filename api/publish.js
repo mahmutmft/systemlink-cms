@@ -24,7 +24,7 @@ export default async function handler(req, res) {
 
   try {
     const response = await fetch(
-      "https://api.github.com/repos/Apexium-Dev/systemlink-publisher/dispatches",
+      "https://api.github.com/repos/mahmutmft/systemlink-cms/dispatches",
       {
         method: "POST",
         headers: {
